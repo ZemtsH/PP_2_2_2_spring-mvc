@@ -28,11 +28,11 @@ public class Car {
         this.model = model;
     }
 
-    public String getСountry() {
+    public String getCountry() {
         return country;
     }
 
-    public void setСountry(String country) {
+    public void setCountry(String country) {
         this.country = country;
     }
 
